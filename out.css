@@ -1,0 +1,17 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#myCanvas {
+	background-color: #9c8cf2;
+	display: block;
+	margin: 0 auto;
+	width: 720px; 
+	height: 480px;
+}
+
+h1 {
+	color: #9c8cf2;
+	margin: 10px;
+}
